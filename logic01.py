@@ -12,4 +12,4 @@ def main(a,b,c):
     return result
 print(main(3,4,5))
 print(main(6,4,5))
-print(main(6,4,1))
+print(main(1,4,6))
