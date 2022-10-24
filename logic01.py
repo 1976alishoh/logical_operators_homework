@@ -8,15 +8,19 @@ def main(a,b,c):
     Returns:
         bool: answer
     """
-    result = a < b < c
+    result = a<b<c
     return result
 print(main(3,4,5))
 
-def main(a,b,c):
-    result = a < b < c
+def main1(a,b,c):
+    result = a<b<c
     return result
-print(main(6,4,5))
-def main(a,b,c):
-    result = a < b < c
+print(main1(6,4,5))
+
+def main1(a,b,c):
+    result = a<b<c
     return result
-print(main(1,4,6))
+print(main1(1,4,6))
+
+
+        
